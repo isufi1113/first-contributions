@@ -107,6 +107,7 @@
 - [Vishnu]
 - [Vedant]
 - [Ilah]
+- [Ibrahim Fahtima Sufi (https://github.com/isufi1113)
 - [Akshay](https://github.com/akshaypathak2002)
 - [jmdagenais] (https://github.com/jmdagenais)
 - [Syed Fazil](https://github.com/syedfazil900/)
